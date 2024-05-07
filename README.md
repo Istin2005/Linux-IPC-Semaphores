@@ -20,8 +20,8 @@ Execute the C Program for the desired output.
 
 # PROGRAM:
 
-<b>Developed by : Istin B </b> 
-<b>Register Number : 212223040068</b>
+<h2>Developed by : Istin B </h2> 
+<h3>Register Number : 212223040068</h3>
 
 ## Write a C program that implements a producer-consumer system with two processes using Semaphores.
 ~~~
